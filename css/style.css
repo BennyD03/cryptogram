@@ -3,6 +3,9 @@
     margin: 0;
     box-sizing: border-box;
     }
+    body {
+        background: rgb(237, 234, 234);
+    }
     .nav {
         background-color: white!important;
     }
@@ -62,9 +65,10 @@
     }
     .au {
         margin-left: 40%; 
-        border-radius: 0%; 
+        border-radius: 10px; 
         background-color:  black; 
         border: none;
+        margin-top: 1.5rem;
     }
     .container-two h1 {
         font-weight: bold;
